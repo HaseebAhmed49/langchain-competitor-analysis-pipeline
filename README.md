@@ -11,7 +11,7 @@ This project builds an **AI-driven Competitor Analysis Tool** that extracts news
 - **FastAPI** - Backend API
 - **LangChain** - Text Processing & AI Pipeline
 - **OpenAI GPT-4** - Summarization
-- **NewsAPI** - Article Retrieval
+- **NewsAPI** - https://newsapi.org/ for Article Retrieval
 - **Streamlit** - Frontend UI
 
 ---
